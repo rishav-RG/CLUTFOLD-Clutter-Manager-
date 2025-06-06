@@ -20,6 +20,7 @@ deletes empty files, and removes files older than thresold years.
 ## 🔧 How to Use
 
 1. Place `clutterManager.js` and `FileToFolder.js` in the folder you want to organize.
+   or you can just clone it and then place all your files in that directory .
 
 2. **(Required)** Initialize a Node.js project (creates `package.json`):
 
@@ -52,10 +53,4 @@ deletes empty files, and removes files older than thresold years.
 
 - Node.js v14 or higher.
 
-## Installation
 
-1. Clone or download this repository.
-2. Run:
-   ```bash
-   npm install
-   ```
